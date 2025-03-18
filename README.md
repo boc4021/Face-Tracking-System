@@ -55,8 +55,5 @@ python main.py
 - Adding support for multiple face tracking.
 - Using a pan-tilt camera module for smoother movement.
 
-## License
-This project is open-source under the MIT License.
-
 ## Author
 Developed by Mohamed Bouchenti. Contributions and suggestions are welcome!
